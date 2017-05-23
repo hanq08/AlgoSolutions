@@ -1,4 +1,4 @@
-package test;
+package test.AlgoSolutions;
 
 public class Solution5p1 {
 	static long parity(long num){

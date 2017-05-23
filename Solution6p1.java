@@ -1,4 +1,4 @@
-package test;
+package test.AlgoSolutions;
 
 public class Solution6p1 {
 	static void sort(int[] flags){

@@ -1,4 +1,4 @@
-package test;
+package test.AlgoSolutions;
 
 public class Solution6p6 {
 	static int maxProfit(int[] stocks){
